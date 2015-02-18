@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<dependency name="nookshop" path="dependencies/nook-shop" if="android" />
+	<android extension="com.pozirk.nook.Shop" />
+</project>

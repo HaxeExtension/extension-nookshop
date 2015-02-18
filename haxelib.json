@@ -1,0 +1,11 @@
+{
+	"name": "nook-shop",
+	"url": "http://inside.pozirk.com/",
+	"license": "MIT",
+	"tags": ["openfl", "java", "android", "nook", "shop"],
+	"description": "NOOK Shop extension for OpenFL",
+	"version": "0.0.1",
+	"releasenote": "First and, probably, last. :)",
+	"contributors": ["pozirk"],
+	"dependencies": {"openfl": ""}
+}
