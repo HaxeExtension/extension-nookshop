@@ -16,7 +16,7 @@ License
 NOOK Shop is free, open-source software under the [MIT license](LICENSE.md).
 
 
-Instalation
+Installation
 =======
 
 cmd> haxelib install nook-shop
