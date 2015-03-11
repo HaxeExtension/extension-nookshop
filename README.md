@@ -30,8 +30,10 @@ Add
 ```
 to your application.xml file.
 
+```haxe
 import com.pozirk.nook.Shop;
 
 ...
 
 Shop.details(EAN);
+```
