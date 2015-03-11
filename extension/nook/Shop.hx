@@ -14,7 +14,7 @@
 * limitations under the License.
 */
 
-package com.pozirk.nook;
+package extension.nook;
 
 class Shop
 {

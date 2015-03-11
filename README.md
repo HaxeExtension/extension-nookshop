@@ -31,7 +31,7 @@ Add
 to your application.xml file.
 
 ```haxe
-import com.pozirk.nook.Shop;
+import extension.nook.Shop;
 
 ...
 
