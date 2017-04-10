@@ -1,3 +1,7 @@
+UPDATE: Barnes and Noble has closed their NOOK AppStore, this extension is obsolete.
+============
+
+
 Introduction
 ============
 
